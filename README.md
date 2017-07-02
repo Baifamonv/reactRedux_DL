@@ -1,5 +1,4 @@
-# ReduxSimpleStarter
-
+# react-redux
 
 ```
 > npm install
