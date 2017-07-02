@@ -1,8 +1,8 @@
 export default function(){
   return[
-    {title:'js'},
-    {title:'js2'},
-    {title:'js3'},
-    {title:'js4'}
+    {title:'js',pages:101},
+    {title:'js2',pages:99},
+    {title:'js3',pages:1},
+    {title:'js4',pages:10}
   ];
 }
